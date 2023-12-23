@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Reda8Saed",
+  "repo": "container-kyzsauo",
+  "name": "Reda8Saed",
+  "email": "hero.saeed2008@gmail.com",
+}
